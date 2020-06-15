@@ -14,17 +14,17 @@
 	<name>EcommerceUserManagement</name>
 	<description>project for  EcommerceUserManagement</description>
 
-	<!-- <properties>
+	 <properties>
 		<java.version>1.8</java.version>
-		 <sonar.host.url>${sonar.host.url}</sonar.host.url>
-        <sonar.organization>${sonar.organization}</sonar.organization>
-        <sonar.projectKey>${sonar.projectKey}</sonar.projectKey>
-        <sonar.login>${sonar.login}</sonar.login>
+		 <sonar.projectKey>nimit</sonar.projectKey>
+  <sonar.organization>nimitkumarjha</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>nimit</sonar.login>
         <sonar.core.codeCoveragePlugin>jacoco</sonar.core.codeCoveragePlugin>
         <sonar.coverage.jacoco.xmlReportPaths>../report/site/jacoco/jacoco.xml
         </sonar.coverage.jacoco.xmlReportPaths>
 	</properties>
-  -->
+  
   <dependencyManagement>  
         <dependencies>  
             <dependency>  
